@@ -1,0 +1,21 @@
+{
+  "label": {
+    "OK": "OK",
+    "BACK": "Voltar",
+    "CANCEL": "Cancelar",
+    "EDIT": "Editar",
+    "SAVE": "Salvar",
+    "ATTENTION": "Atenção",
+    "CLEAR": "Limpar",
+    "NOVO": "Novo"
+  },
+  "messages": {
+    "general": {
+      "HTTP_NOT_FOUND": "Erro desconhecido (404)."
+    },
+    "example": {
+      "SUCCESSFUL_SAVED": "Salvo com sucesso!",
+      "COULD_NOT_SAVE": "Não foi possível salvar"
+    }
+  }
+}
